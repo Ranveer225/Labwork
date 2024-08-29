@@ -68,7 +68,6 @@ public class Car extends Vehicle {
     
     // Additional attribute
 
-   
     public Car(int numberOfWheels, String color, float engineSize, String fuelType, String brand) {
         
         super(numberOfWheels, color, engineSize, fuelType);
