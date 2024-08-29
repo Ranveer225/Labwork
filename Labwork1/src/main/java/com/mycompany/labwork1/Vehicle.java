@@ -90,8 +90,7 @@ public class Car extends Vehicle {
     }
     
     // Method named honk to print honk, honk
-
-    
+   
     // Method to print all attributes
     public void displayInfo() {
         System.out.println("Brand: " + brand);
